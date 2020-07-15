@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Pacifico&display=swap');
+
+h1 {
+    color: #df1111;  
+    font-family: 'Pacifico',cursive;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+  }
+h3 {
+    color: chocolate;
+    font-family: 'Roboto',sans-serif;
+    text-transform: uppercase;
+}
+#bioh3 {
+    color: coral;
+}
+p  {
+    color: darkslateblue;
+    font-family: 'Roboto',sans-serif;
+    font-size: 24px;
+    text-align: justify;
+    line-height: 40px;
+
+}
+.content {
+      color: darkblue;
+      font-family: 'Roboto',sans-serif;
+      font-size: 30px;
+      text-align: justify;
+      line-height: 40px;
+  }
+
+  img {
+      width: 200px;
+      height: 200px;
+  }
+
+ 
