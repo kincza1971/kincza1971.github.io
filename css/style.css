@@ -16,6 +16,10 @@ h3 {
 #bioh3 {
     color: coral;
 }
+#img1 {
+/*    display: none;*/
+/*    visibility: hidden*/
+}
 p  {
     color: darkslateblue;
     font-family: 'Roboto',sans-serif;
@@ -31,10 +35,22 @@ p  {
       text-align: justify;
       line-height: 40px;
   }
+.boldtext {
+    font-weight: 900;
+}
+.imgDiv {
+    background-color: lightblue;
+    margin: 10px;
+}
+.light {
+    background-color: aliceblue;
+}
 
   img {
-      width: 200px;
-      height: 200px;
+      width: 14.3%;
+      margin: 1%;
+      box-shadow: 3px 3px 10px darkblue;
+      /* height: 200px; */
   }
 
  
